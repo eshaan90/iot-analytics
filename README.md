@@ -5,4 +5,4 @@
 2. Linear Regression
 3. IOT Simulation
 3. Time Series Forecasting
-5. SVN=M
+5. SVM
